@@ -1,0 +1,30 @@
+{
+  "name": "devtyping/laravel-helpers",
+  "description": "Laravel Helpers",
+  "keywords": [
+    "devtyping",
+    "laravel",
+    "laravel-helpers"
+  ],
+  "require": {
+    "php": "^7.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Phuong Phung",
+      "email": "phuongthephung@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DevTyping\\Helpers\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
