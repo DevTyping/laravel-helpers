@@ -1,14 +1,7 @@
 {
   "name": "devtyping/laravel-helpers",
   "description": "Laravel Helpers",
-  "keywords": [
-    "devtyping",
-    "laravel",
-    "laravel-helpers"
-  ],
-  "require": {
-    "php": "^7.3"
-  },
+  "homepage": "https://github.com/DevTyping/laravel-helpers",
   "license": "MIT",
   "authors": [
     {
@@ -17,6 +10,14 @@
       "role": "Developer"
     }
   ],
+  "keywords": [
+    "devtyping",
+    "laravel",
+    "laravel-helpers"
+  ],
+  "require": {
+    "php": "^7.3"
+  },
   "autoload": {
     "psr-4": {
       "DevTyping\\Helpers\\": "src/"
